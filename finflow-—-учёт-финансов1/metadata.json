@@ -1,0 +1,6 @@
+{
+  "name": "FinFlow — Учёт Финансов",
+  "description": "Современное мобильное приложение для удобного учёта расходов и доходов с наглядной аналитикой, яркими градиентами и умным бюджетированием.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
